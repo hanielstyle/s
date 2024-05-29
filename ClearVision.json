@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-	"blur": 15,
+	"blur": 5,
         "url": "https://i.imgur.com/pGrrL6E.png",
         "alpha": 0.63
     },
