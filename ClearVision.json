@@ -444,8 +444,8 @@
     },
     "background": {
         "url": "https://i.imgur.com/pGrrL6E.png",
-        "alpha": 0.63
-        "blur": 20.0
+        "alpha": 0.63,
+        "blur": 0.5
     },
     "plus": {
         "version": 0,
